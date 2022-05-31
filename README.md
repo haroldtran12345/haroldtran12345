@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here's my link to my resume! https://docs.google.com/document/d/1rFCJYGUrjaAtQ3nPzJOfx2o6r2zfQ7EbhGuGW0To6F8/edit?usp=sharing
+Here's my link to my resume! https://docs.google.com/document/d/1rQ9Yo0RfjkCCC_HXrN-mAjnHh_pWK973Qp2zDzYIyO0/edit
 <!--
 **haroldtran12345/haroldtran12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
